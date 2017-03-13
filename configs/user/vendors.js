@@ -4,9 +4,9 @@ const vendors = [
   "react",
   "react-dom",
   "react-redux",
-  "react-router",
   "redux",
-  "redux-api-mapper"
+  "redux-api-mapper",
+  "redux-form"
 ];
 
 module.exports = vendors;
