@@ -4,7 +4,7 @@ An example of how to use redux-api-mapper
 ## Getting started
 
 ```bash
-git clone https://github.com/gugamm/redux-api-mapper-example
+git clone https://github.com/gugamm/redux-api-mapper-example.git
 cd redux-api-mapper-example
 npm install
 ``` 
